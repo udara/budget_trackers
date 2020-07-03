@@ -1,6 +1,7 @@
 {
     "name": "Budget Tracker",
     "short_name": "Budget_Tracker",
+    "description": "Budget Tracker application with offline access and functionality",
     "icons": [
       {
         "src": "/icons/icon-192x192.png",
